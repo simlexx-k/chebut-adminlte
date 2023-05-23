@@ -13,7 +13,7 @@
     <!-- Title -->
     <title>Chebut Tea FMS - AdminLTE</title>
     <div style="text-align: right;">
-    <a href="/chebut/admin">Admin Portal</a>
+    <a href="/chebut-adminlte/admin">Admin Portal</a>
     </div>
 
 
