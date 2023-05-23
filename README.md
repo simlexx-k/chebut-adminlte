@@ -1,4 +1,4 @@
-# Chebut Tea Farmers Management System(AdminLTE Version)
+# Chebut Tea Farmers Management System(AdminLTE)
 
 ![Logo](chebut-removebg-preview.png)
 
