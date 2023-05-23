@@ -24,7 +24,7 @@ Chebut Tea Farmers Management System is a web-based application developed using 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/simlexx-k/chebut.git
+   git clone https://github.com/simlexx-k/chebut-adminlte.git
    ```
 
 2. Configure the PHP environment and ensure it meets the system requirements.
