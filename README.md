@@ -1,6 +1,6 @@
 # Chebut Tea Farmers Management System
 
-![Logo](chebut-removebg-preview (1).png)
+![Logo](chebut-removebg-preview.png)
 
 Chebut Tea Farmers Management System is a web-based application developed using PHP and Bootstrap AdminLTE. This application is designed to efficiently capture and manage farmers' records for tea production, process payrolls, generate payslips, and handle deductions such as NSSF, NHIF, and tax. It aims to streamline the management process and provide accurate financial information for tea farmers.
 
